@@ -1,2 +1,2 @@
-# ns-theme-2
-Teme Nuvem Shop - Modelo 2
+# ns-theme-2 - Vitamin
+Teme Nuvem Shop - Vitamin
